@@ -9,7 +9,7 @@
 - [x] Big-O Notation
 - [x] Arrays
 - [x] Hash Tables
-- [] Linked Lists
+- [x] Linked Lists
 - [] Stacks and Queues
 - [] Trees
 - [] Graphs
