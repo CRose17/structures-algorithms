@@ -10,7 +10,7 @@
 - [x] Arrays
 - [x] Hash Tables
 - [x] Linked Lists
-- [] Stacks and Queues
+- [x] Stacks and Queues
 - [] Trees
 - [] Graphs
 - [] Recursion
