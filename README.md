@@ -11,7 +11,7 @@
 - [x] Hash Tables
 - [x] Linked Lists
 - [x] Stacks and Queues
-- [] Trees
+- [x] Trees
 - [] Graphs
 - [] Recursion
 - [] Sorting
