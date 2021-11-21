@@ -2,7 +2,7 @@
 
 ### Since I have been on AlogExpert and ZeroToMastery, my commits have been lacking on Github.</br>
 
-### This repo will track all the time I am spending learning these skills backwards and forwards.</br>
+### This repo will track all the time (time being relative of course) I am spending learning these skills backwards and forwards, and will include the exercises I am working with for posterity.</br>
 
 # Sections Completed:</br>
 
