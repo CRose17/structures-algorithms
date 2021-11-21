@@ -769,3 +769,58 @@ myGraph.showConnections();
 // 4-->3 2 5
 // 5-->4 6
 // 6-->5
+
+// Algorithm Section
+// Recursion Exercises
+
+function findFactorialRecursive(number) {
+  //code here O(n)
+  if (number === 2) {
+    return 2;
+  }
+  return number * findFactorialRecursive(number - 1);
+}
+
+function findFactorialIterative(number) {
+  //code here O(n)
+  let answer = 1;
+  if (number === 2) {
+    answer = 2;
+  }
+  for (let i = 2; i <= number; i++) {
+    answer = answer * i;
+  }
+  return answer;
+}
+
+findFactorialRecursive(5);
+
+// Fibonacci Sequence
+
+// Given a number N return the index value of the Fibonacci sequence, where the sequence is:
+
+// 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ...
+// the pattern of the sequence is that each value is the sum of the 2 previous values, that means that for N=5 → 2+3
+
+//For example: fibonacciRecursive(6) should return 8
+
+function fibonacciIterative(n) {
+  //code here O(n)
+  let arr = [0, 1];
+  for (let i = 2; i < n + 1; i++) {
+    arr.push(arr[i - 2] + arr[i - 1]);
+  }
+  return arr[n];
+}
+fibonacciIterative(2);
+
+function fibonacciRecursive(n) {
+  //code here O(2^n)
+  if (n < 2) {
+    return n;
+  }
+  return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);
+  // going to the index specified then adding the two indexes prior and returning result.
+}
+
+fibonacciRecursive(8);

@@ -13,7 +13,7 @@
 - [x] Stacks and Queues
 - [x] Trees
 - [x] Graphs
-- [] Recursion
+- [x] Recursion
 - [] Sorting
 - [] Searching + BFS + DFS
 - [] Dynamic Programming
