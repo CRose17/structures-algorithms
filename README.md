@@ -12,7 +12,7 @@
 - [x] Linked Lists
 - [x] Stacks and Queues
 - [x] Trees
-- [] Graphs
+- [x] Graphs
 - [] Recursion
 - [] Sorting
 - [] Searching + BFS + DFS
