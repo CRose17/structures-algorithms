@@ -14,6 +14,6 @@
 - [x] Trees
 - [x] Graphs
 - [x] Recursion
-- [] Sorting
+- [x] Sorting
 - [] Searching + BFS + DFS
 - [] Dynamic Programming
