@@ -15,5 +15,5 @@
 - [x] Graphs
 - [x] Recursion
 - [x] Sorting
-- [] Searching + BFS + DFS
+- [x] Searching + BFS + DFS
 - [] Dynamic Programming
