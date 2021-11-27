@@ -16,4 +16,4 @@
 - [x] Recursion
 - [x] Sorting
 - [x] Searching + BFS + DFS
-- [] Dynamic Programming
+- [x] Dynamic Programming
