@@ -1685,6 +1685,8 @@ function fibonacciMaster() {
   };
 }
 
+// Bottom Up approach
+
 /* function fibonacciMaster2(n) {
   let answer = [0,1];
   for ( let i = 2; i <= n; i++) {
